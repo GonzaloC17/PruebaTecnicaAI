@@ -1,0 +1,16 @@
+{
+  "name": "alumni-llm-solution",
+  "version": "1.0.0",
+  "description": "Example LLM chatbot to support a student help solution.",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.47.1",
+    "readline-sync": "^1.4.10"
+  }
+}
